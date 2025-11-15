@@ -1,10 +1,9 @@
 
 # **AmbedkarGPT — RAG Q&A System (LangChain + ChromaDB + Ollama)**
 
-This project is a **simple Retrieval-Augmented Generation (RAG)** system built using:
-Deployed it using Streamlit on Lightning AI:
-Visit [AmbedkarGPT](https://8501-01ka31jr2wwdsnpdma6rcc3s21.cloudspaces.litng.ai)
+Visit it here: [AmbedkarGPT](https://8501-01ka31jr2wwdsnpdma6rcc3s21.cloudspaces.litng.ai)
 
+This project is a **simple Retrieval-Augmented Generation (RAG)** system built using:
 
 * **LangChain**
 * **ChromaDB**
