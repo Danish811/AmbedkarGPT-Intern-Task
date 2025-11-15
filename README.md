@@ -11,6 +11,8 @@ This project is a **simple Retrieval-Augmented Generation (RAG)** system built u
 
 It loads a speech by **Dr. B. R. Ambedkar**, splits it into chunks, creates embeddings, stores them in ChromaDB, and answers user questions based on the speech only.
 
+<img width="1912" height="903" alt="image" src="https://github.com/user-attachments/assets/166afd44-10e1-4dc5-aea2-b852d5f8989c" />
+
 ---
 
 ## 📦 Installation
