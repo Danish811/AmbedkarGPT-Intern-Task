@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain_huggingface
+langchain-ollama
+langchain_classic
+langchain_chroma
+sentence-transformers
+chromadb
+pydantic>=2.0
+requests
