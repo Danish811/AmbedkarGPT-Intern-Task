@@ -2,6 +2,7 @@
 # **AmbedkarGPT — RAG Q&A System (LangChain + ChromaDB + Ollama)**
 
 Visit it here: [AmbedkarGPT](https://8501-01ka31jr2wwdsnpdma6rcc3s21.cloudspaces.litng.ai)
+The link might take 2-3 mins to restart as it is deployed on LightningAI and studio closes it after long inactivity
 
 This project is a **simple Retrieval-Augmented Generation (RAG)** system built using:
 
